@@ -1,0 +1,38 @@
+[
+  {
+    "address": "AV. CERRO CAMACHO 880 SANTIAGO DE SURCO",
+    "emergency_type": "EMERGENCIA MEDICA",
+    "status": "ATENDIENDO",
+    "created": "03/06/2017 09:53:42 a.m.",
+    "number": "2017-028208",
+    "machines": ["AMB124-2", "AMB-96"],
+    "map": {
+      "latitude": -12.1955257,
+      "longitude": -76.9717277
+    }
+  },
+  {
+    "address": "EDUCACION I.E.P. FRANCO PERUANO SANTIAGO DE SURCO",
+    "emergency_type": "EMERGENCIA MEDICA",
+    "status": "ATENDIENDO",
+    "created": "03/06/2017 09:53:42 a.m.",
+    "number": "2017-028208",
+    "machines": ["AMB124-2", "AMB-96"],
+    "map": {
+      "latitude": -12.1955257,
+      "longitude": -76.9717277
+    }
+  },
+  {
+    "address": "EDUCACION I.E.P. FRANCO PERUANO SANTIAGO DE SURCO",
+    "emergency_type": "EMERGENCIA MEDICA",
+    "status": "ATENDIENDO",
+    "created": "03/06/2017 09:53:42 a.m.",
+    "number": "2017-028208",
+    "machines": ["AMB124-2", "AMB-96"],
+    "map": {
+      "latitude": -12.1955257,
+      "longitude": -76.9717277
+    }
+  }
+]
